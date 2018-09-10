@@ -1,0 +1,25 @@
+body{
+	background: white;
+	margin: 0px;
+	
+}
+#head{
+	margin-top: 0px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+img{
+
+	
+}
+#footer{
+	margin-bottom: 5px;
+	text-align: right;
+	background-color: black;
+	color: white;
+}
+	
+.grp{
+	margim-left: 160px;
+}
